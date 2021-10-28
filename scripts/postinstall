@@ -11,9 +11,9 @@ addDefaultFiles( 'translations.db', '{}' )
 addDefaultFiles( '.env',
 	[
 		'PORT=8000',
-		'TWITCHUSER=[YOUR-USERNAME-HERE]',
-		'OAUTH=[YOUR-OAUTH-PASS HERE] # e.g. OAUTH=oauth:kjh12bn1hsj78445234',
-		'YANDEX_KEY=[Yandex Key Here] # e.g. from https://translate.yandex.com/developers/keys',
+		'TWITCHUSER=[FidFixc]',
+		'OAUTH=[oauth:0ac1h2rx17s8xryh274hi4zc66vn1h] # e.g. OAUTH=oauth:kjh12bn1hsj78445234',
+		'YANDEX_KEY=[b1guii94bpc12f91fmc8] # e.g. from https://translate.yandex.com/developers/keys',
 	].join( '\n' ) + '\n'
 )
 
